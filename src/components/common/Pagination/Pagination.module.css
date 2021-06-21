@@ -1,0 +1,11 @@
+.pagination {
+	background-color: #ccc;
+	padding: 0.5em;
+}
+.item {
+	margin: 10px;
+}
+.active {
+	background-color: rgb(163, 144, 182);
+	border-color: rgb(163, 144, 182);
+}

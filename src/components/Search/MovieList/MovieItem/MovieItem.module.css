@@ -1,8 +1,7 @@
 .noPoster {
 	width: 200px;
-	height: 260px;
-  padding-top: 40px;
-	background-color: #ccc;
+	height: 300px;
+	/* padding-top: 40px; */
 	margin: 0 auto;
 	/* display: inline; */
 }
